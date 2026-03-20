@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Embed YT on Twitch
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/scainburger
 // @match       https://www.twitch.tv/*
 // @version     1.2
 // @author      scainburg
